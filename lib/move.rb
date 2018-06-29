@@ -7,3 +7,11 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
+
+def greeting(name)
+  puts "Hi, #{name}! Welcome to the wonderful world of Ruby programming."
+end
+
+def greeting(name)
+  puts "Hello #{name}. It's nice to meet you."
+end
