@@ -13,6 +13,6 @@ def input_to_index(input)
   index = input - 1
 end
 
-def move(name)
+def move(board, )
   puts "Hello #{name}. It's nice to meet you."
 end
